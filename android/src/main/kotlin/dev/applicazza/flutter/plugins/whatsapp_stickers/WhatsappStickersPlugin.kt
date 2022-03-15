@@ -140,11 +140,9 @@ public class WhatsappStickersPlugin: FlutterPlugin, MethodCallHandler, ActivityA
   }
 
   override fun onDetachedFromActivity() {
-    TODO("Not yet implemented")
   }
 
   override fun onReattachedToActivityForConfigChanges(binding: ActivityPluginBinding) {
-    TODO("Not yet implemented")
   }
 
   override fun onAttachedToActivity(binding: ActivityPluginBinding) {
@@ -152,7 +150,6 @@ public class WhatsappStickersPlugin: FlutterPlugin, MethodCallHandler, ActivityA
   }
 
   override fun onDetachedFromActivityForConfigChanges() {
-    TODO("Not yet implemented")
   }
 
   override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?): Boolean {
